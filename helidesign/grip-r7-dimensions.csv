@@ -1,0 +1,18 @@
+feature,nominal_dimension_mm,status,manufacturing_tolerance
+Overall envelope,X=12.00; Y=22.00; Z=29.50,Measured CAD bounds,TBD - not released
+Round outer housing,DIA 12.00; z=0 to 8.00,Nominal / provisional,TBD - not released
+Housing-to-fork loft,z=8.00 to 12.00,Exact surface in STEP,TBD - not released
+Loft end envelope,X=10.00; Y=9.00 at z=12.00,Nominal / provisional,TBD - not released
+Fork cheeks,3.00 thick each; 4.00 clear gap,Nominal / provisional,TBD - not released
+Fork cheeks X locations,-5.00 to -2.00; +2.00 to +5.00,Nominal / provisional,TBD - not released
+Fork end / bolt axis,"R4.50; axis at y=0, z=25.00",Nominal / provisional,TBD - not released
+Blade bolt holes,"DIA 2.20 through X, both cheeks",Sleeve fit unverified,TBD - not released
+Oval access,6.80 wide in Y; 8.40 long in Z,Nominal,TBD - not released
+Oval access location,z=11.60 to 20.00; center y=0,Through both cheeks / X,TBD - not released
+Bottom bearing pocket,DIA 6.15; z=0 to 9.30,Print allowance only,TBD - not released
+Terminal shoulder,z=9.30 to 10.70; thickness 1.40,Retention unverified,TBD - not released
+Shoulder center bore,DIA 4.80,Washer passage restricted,TBD - not released
+Upper relief cut,DIA 6.15; z=10.70 to 17.60,Interrupted by access slot,TBD - not released
+Pitch arm thickness,4.00; z=2.00 to 6.00,Nominal / provisional,TBD - not released
+Pitch hole,"DIA 1.80; axis at x=4.00, y=14.00",Parallel to Z; no thread,TBD - not released
+Pitch arm nose,"R2.00; center x=4.00, y=14.00",Exact outline in STEP,TBD - not released

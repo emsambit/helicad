@@ -8,6 +8,8 @@ Revision R7 targets a reference-style, one-piece grip with bottom insertion of t
 
 - [Fusion archive](helidesign/grip-r7-fit-only.f3d)
 - [STEP model](helidesign/grip-r7-fit-only.step)
+- [Dimensioned reference drawing (PDF)](helidesign/grip-r7-dimensioned-reference.pdf)
+- [Dimension schedule (CSV)](helidesign/grip-r7-dimensions.csv)
 - [Prototype STL](helidesign/grip-r7-fit-only.stl)
 - [Assembly notes](helidesign/r7-assembly-notes.md)
 - [Project status](helidesign/PROJECT-STATUS.md)
@@ -28,3 +30,6 @@ Earlier revisions, source scripts, research notes, clearance results and prelimi
 The Python scripts use Autodesk Fusion's `adsk` API. Each defines `run(_context: str)` and creates a new design. Export directories are specific to the original workspace and must be changed before running elsewhere.
 
 The reference photos/manuals are linked in the research notes where available; external reference images were not included in this saved deliverable set. No manufacturing or flight suitability is claimed.
+
+The dimensioned PDF is a companion to the STEP, not embedded STEP PMI. It documents existing nominal geometry; manufacturing tolerances are TBD. Wireframe projections include hidden edges without hidden-line classification. It is not a production drawing.
+
