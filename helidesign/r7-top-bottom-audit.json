@@ -1,0 +1,140 @@
+{
+  "document": "Helidesign R7 - bottom assembly grip - FIT ONLY",
+  "method": "Continuous annular swept volume intersection with plastic; coaxial straight insertion; nominal hardware envelope; no tilt; empty grip",
+  "parts": [
+    {
+      "part": "inner radial bearing",
+      "ID_mm": 3,
+      "OD_mm": 6,
+      "width_mm": 2.5,
+      "seated_z_mm": [
+        0,
+        2.5
+      ],
+      "seated_intersection_mm3": 0.0,
+      "top_sweep_intersection_mm3": 66.19995479225557,
+      "bottom_sweep_intersection_mm3": 0.0,
+      "top_clear": false,
+      "bottom_clear": true
+    },
+    {
+      "part": "metal spacer",
+      "ID_mm": 3,
+      "OD_mm": 4.4,
+      "width_mm": 1.4,
+      "seated_z_mm": [
+        2.5,
+        3.9
+      ],
+      "seated_intersection_mm3": 0.0,
+      "top_sweep_intersection_mm3": 3.690110159612613,
+      "bottom_sweep_intersection_mm3": 0.0,
+      "top_clear": false,
+      "bottom_clear": true
+    },
+    {
+      "part": "outer radial bearing",
+      "ID_mm": 3,
+      "OD_mm": 6,
+      "width_mm": 2.5,
+      "seated_z_mm": [
+        3.9,
+        6.4
+      ],
+      "seated_intersection_mm3": 0.0,
+      "top_sweep_intersection_mm3": 66.19995479225557,
+      "bottom_sweep_intersection_mm3": 0.0,
+      "top_clear": false,
+      "bottom_clear": true
+    },
+    {
+      "part": "washer",
+      "ID_mm": 3.1,
+      "OD_mm": 4.5,
+      "width_mm": 0.1,
+      "seated_z_mm": [
+        6.4,
+        6.5
+      ],
+      "seated_intersection_mm3": 0.0,
+      "top_sweep_intersection_mm3": 5.238075918018167,
+      "bottom_sweep_intersection_mm3": 0.0,
+      "top_clear": false,
+      "bottom_clear": true
+    },
+    {
+      "part": "thrust assembly envelope",
+      "ID_mm": 3,
+      "OD_mm": 6,
+      "width_mm": 2.8,
+      "seated_z_mm": [
+        6.5,
+        9.3
+      ],
+      "seated_intersection_mm3": 0.0,
+      "top_sweep_intersection_mm3": 66.19995479225557,
+      "bottom_sweep_intersection_mm3": 0.0,
+      "top_clear": false,
+      "bottom_clear": true
+    },
+    {
+      "part": "spacer alternative from image list",
+      "ID_mm": 3,
+      "OD_mm": 4,
+      "width_mm": 1.4,
+      "seated_z_mm": [
+        2.5,
+        3.9
+      ],
+      "seated_intersection_mm3": 0.0,
+      "top_sweep_intersection_mm3": 0.0,
+      "bottom_sweep_intersection_mm3": 0.0,
+      "top_clear": true,
+      "bottom_clear": true
+    }
+  ],
+  "axial_cylindrical_faces": [
+    {
+      "diameter_mm": 1.7999999999999994,
+      "z_range_mm": [
+        2.0,
+        6.000000000000001
+      ]
+    },
+    {
+      "diameter_mm": 6.15,
+      "z_range_mm": [
+        10.700000000000001,
+        12.529296658843883
+      ]
+    },
+    {
+      "diameter_mm": 6.15,
+      "z_range_mm": [
+        0.0,
+        9.3
+      ]
+    },
+    {
+      "diameter_mm": 4.8,
+      "z_range_mm": [
+        9.3,
+        10.700000000000001
+      ]
+    },
+    {
+      "diameter_mm": 3.999999993287874,
+      "z_range_mm": [
+        2.0,
+        6.000000000000001
+      ]
+    },
+    {
+      "diameter_mm": 12.0,
+      "z_range_mm": [
+        0.0,
+        8.0
+      ]
+    }
+  ]
+}

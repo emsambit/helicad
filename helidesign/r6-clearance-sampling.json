@@ -1,0 +1,32 @@
+[
+  {
+    "part": "inner radial",
+    "route": "bottom",
+    "sample_points": 8856,
+    "plastic_collision_samples": 0
+  },
+  {
+    "part": "spacer",
+    "route": "side",
+    "sample_points": 28080,
+    "plastic_collision_samples": 0
+  },
+  {
+    "part": "outer radial",
+    "route": "side",
+    "sample_points": 28080,
+    "plastic_collision_samples": 0
+  },
+  {
+    "part": "washer",
+    "route": "side",
+    "sample_points": 28080,
+    "plastic_collision_samples": 0
+  },
+  {
+    "part": "thrust",
+    "route": "side",
+    "sample_points": 28080,
+    "plastic_collision_samples": 0
+  }
+]
